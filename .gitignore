@@ -1,0 +1,8 @@
+Objects
+Listings
+*.uvoptx
+*.uvguix.*
+DebugConfig
+RTE
+tmp
+out
